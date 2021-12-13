@@ -2,7 +2,7 @@
 NP style oxy run for QB
 
 
-add this to your qb-target config.
+add this to your qb-target config. under peds option
 
  ["oxy"] = {
         model = 'g_m_m_armgoon_01',
