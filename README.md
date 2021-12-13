@@ -1,5 +1,5 @@
 # qb-oxyrun
-NP style oxy run for QB
+Oxy run for QB
 
 
 add this to your qb-target config. under peds option
